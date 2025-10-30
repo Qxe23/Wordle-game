@@ -51,6 +51,8 @@ Le jeu est construit autour de la classe `WordleGame`, qui regroupe toutes les f
 Le jeu s’appuie sur un fichier `Lexique383.tsv` contenant une liste de mots français.  
 Chaque mot doit apparaître dans la **première colonne** du fichier.
 
+---
+
 ## Améliorations possibles
 
 - Ajouter un mode sombre ou un thème personnalisable.
