@@ -51,11 +51,10 @@ Le jeu est construit autour de la classe `WordleGame`, qui regroupe toutes les f
 Le jeu s’appuie sur un fichier `Lexique383.tsv` contenant une liste de mots français.  
 Chaque mot doit apparaître dans la **première colonne** du fichier.
 
-### Exemple minimal de fichier :
+## Améliorations possibles
 
-mot
-arbre
-chose
-livre
-femme
-pomme
+- Ajouter un mode sombre ou un thème personnalisable.
+- Permettre des mots de longueurs variables (4, 6, 7 lettres...).
+- Sauvegarder les statistiques de jeu (taux de réussite, tentatives, etc.).
+- Ajouter une option “mot du jour” fixe selon la date.
+- Traduire l’interface pour d’autres langues.
